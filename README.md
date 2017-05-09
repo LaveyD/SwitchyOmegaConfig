@@ -1,8 +1,10 @@
 # SwitchyOmega is a proxy tool of chrome extention.
 
-Should use it with archsocks:
+1) install archsocks:
 
 https://github.com/archsocks/archsocks
+
+2) install swichyOmegar
 
 switchyOmegar config bak file:
 
